@@ -1,0 +1,2 @@
+git is va version control systom
+git is fres software
